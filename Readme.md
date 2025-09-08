@@ -6,9 +6,6 @@ Welcome to my GitHub profile! I'm Rucha Ingle, a Data Science enthusiast with a 
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rucha935630&theme=dark)](https://github.com/Rucha935630)
 
-## Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rucha935630&theme=dark&hide_border=true&repo=Data-Science-Projects)](https://github.com/Rucha935630/Fraud-detection) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rucha935630&theme=dark&hide_border=true&repo=IBM-AI-Engineering)](https://github.com/Rucha935630/reddit-sentiment-analysis )
-
 
 ## Skills
 - ### Languages
